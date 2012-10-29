@@ -1,0 +1,22 @@
+---
+layout: default
+title: Debnath Sinha
+---
+
+<div id="home">
+
+    {% for post in site.posts %}
+        <div class="post-header">
+	  <a href="{{ post.url }}">{{ post.title }}</a>
+	</div>
+	<div class="post-date">
+	  {{ post.post-date }} - {{ post.loc }}
+	</div>
+	<div class="post-content">
+	  {{ post.content }}
+	</div>
+	
+    {% endfor %}
+
+
+</div>

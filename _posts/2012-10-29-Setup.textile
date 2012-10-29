@@ -1,0 +1,11 @@
+---
+layout: post
+title: Setup
+tags : [setup]
+post-date : 29 Oct 2008
+loc  : San Francisco
+---
+
+Article on setup coming soon, its going to be gargantuan!! Set this up using Jekyll and hosting this on EC2. Also, hours of tweaking CSS to get it exactly right...
+
+
