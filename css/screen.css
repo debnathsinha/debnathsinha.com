@@ -63,7 +63,9 @@ a:hover {
 
 .post-content {
     test-align:left;
-    font-size:14px;
+    margin-bottom: 15px;
+    font-size:18px;
     line-height:22px;
     width: 700px;
+    border-bottom: 1px solid #333333;
 }
