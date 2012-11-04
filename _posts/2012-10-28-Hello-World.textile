@@ -8,6 +8,6 @@ loc  : San Francisco
 
 
 
-Hello World
+Have been meaning to write a blog for a while now. After many unsuccessful attempts, hopefully this will work.
 
 
