@@ -4,6 +4,13 @@
 /*
 /*****************************************************************************/
 
+
+body { 
+    color: #000;  
+    font-family: proxima-nova, proxima-nova-1, proxima-nova-2, HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background-color: #fff; 
+}
+
 a {
     color:#000099;
     text-decoration:none;
@@ -15,16 +22,17 @@ a:hover {
 
 #alpha {
   float:left;
-  width: 500 px;
+  margin-right: 20px;
+  width: 660 px;
 }
 
 #beta {
-  float:right;
-  width:190px;
+  margin-top: 2px;
 }
 
 #beta-inner {
     float:left;
+    font-size: 14px;
 }
 
 #header {
@@ -45,6 +53,7 @@ a:hover {
 }
 
 #content-inner {
+    margin-top: 0.1em;
     margin:auto;
     text-align:left;
     width:940px;
@@ -53,19 +62,27 @@ a:hover {
 .post-date {
     text-align:left;
     font-size:11px;
+    width: 660px;
+    padding-top: 5px;
 }
 
 .post-header {
     text-align:left;
-    font-size:32px;
-    width: 700px;
+    font-size:24px;
+    width: 660px;
 }
 
 .post-content {
-    test-align:left;
+    text-align:left;
+    padding-bottom: 15px;
+    padding-top: 15px;
     margin-bottom: 15px;
-    font-size:18px;
+    font-size:14px;
     line-height:22px;
-    width: 700px;
-    border-bottom: 1px solid #333333;
+    border-bottom: 1px solid #C0C0C0;
+    width: 660px;
+}
+
+a.post-url {
+    text-decoration: underline;
 }

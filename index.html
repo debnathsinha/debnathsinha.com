@@ -7,10 +7,10 @@ title: Debnath Sinha
 
     {% for post in site.posts %}
         <div class="post-header">
-	  <a href="{{ post.url }}">{{ post.title }}</a>
+	  <a href="{{ post.url }}" class="post-url">{{ post.title }}</a>
 	</div>
 	<div class="post-date">
-	  {{ post.post-date }} - {{ post.loc }}  |  <a href="{{ post.url }}#disqus-thread">Comments</a>
+	  {{ post.post-date }} - {{ post.loc }}  |  <a href="{{ post.url }}#disqus-thread">Comments (<script type="text/javascript"  src="http://disqus.com/forums/homepageofdebnathsinha/get_num_replies_for_entry.js?url=http://www.debnathsinha.com{{ post.url }}"></script><noscript>View</noscript>)</a>
 	</div>
 	<div class="post-content">
 	  {{ post.content }}
