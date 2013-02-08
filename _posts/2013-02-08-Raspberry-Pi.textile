@@ -1,0 +1,14 @@
+---
+layout: post
+title: Raspberry Pi
+tags : [robotics]
+post-date : 8 Sept 2013
+loc  : San Francisco
+---
+
+The other day I came across Raspberry Pi, which is basically a 700 MHz, 512MB Ram for $35! I had already learned about Arduino, which was a microcontroller for about $30. The price of these devices is amazing. They have more computing power available for the price of a tank of gas than was available in the whole world in the 50s or the 60s. All while taking up as much space as the size of your palm than a whole warehouse.
+I had done my undergrad internship in Robotics at the University of Paderborn on robotics where I had worked on the Khepera minirobots, so I have always had a latent interest in robotics. And for my undergrad thesis I had worked on how an underwater autonomous vehicle learns about its landscape. But constructing these devices always seemed like they would need a grant to be written. However, when I saw the Raspberry Pi, it suddenly occured to me that I should be able to construct a small robot for under $100, a hobbyist's price.
+So I bought an Arduino Uno and 2 Raspberry Pi's, a Lego truck set to get the wheels/chassis etc. I have very little hardware/electronics experience, so I'm buying all materials in twos so that I can build 2 of them simultaneously. This way, even if I bust one, I can continue on the backup set while I wait for parts for the first to be shipped. 
+Inspired by NASA having named their Mars robots, I decided to name them Michaelangelo and Leonardo :)
+The other day I was reading an article on Google, and the author used the term "moonshots". Its when you reach for a goal so unbelievable that most people at the start of the journey would think it impossible. While I know the technology is available, with my experience in this area, this feels like a moonshot. I still have to learn to solder, and am going to have to rely on Youtube for that experience. 
+But I guess we each have our windmills to chase.
